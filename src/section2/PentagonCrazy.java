@@ -25,7 +25,7 @@ public class PentagonCrazy {
 		int turnAngle = 108
 		//  COUNT. Make another int variable to count how many times the loop has repeated
 		//         Set its start value to zero.
-		int count = 0
+		int count = 0;
 		//  LOOP. Start a while loop to repeat the DRAW, TURN, and INCREASE COUNT code 200 times. 
 		
 				//  DRAW.  Make the robot move "i" pixels
